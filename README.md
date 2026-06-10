@@ -14,7 +14,7 @@ Proyecto web desarrollado para practicar maquetación frontend, diseño responsi
 - Estructura semántica accesible.
 
 ## 🌐 Enlace del proyecto
-*(Link de Netlify en proceso)*
+<a href="https://blog-coffee-yunkkies.netlify.app/" target="_blank">🚀 Ver el proyecto en vivo aquí</a>
 
 ## 🛠️ Cómo ejecutar
 1. Clona este repositorio.
